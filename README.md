@@ -16,7 +16,7 @@ self.user_agent = ''；
 'pin': ''；
 'wskey': ''；
 'whwswswws': ''；
-'unionwsws': '；
+'unionwsws': '； 
 4.运行 python JDMain.py
 如需完整脚本可联系 2524267174@qq.com
 
